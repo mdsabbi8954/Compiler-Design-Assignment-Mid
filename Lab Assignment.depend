@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793156673 source:e:\my journey start with c++\lab assignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+

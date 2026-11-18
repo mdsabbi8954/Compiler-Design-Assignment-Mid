@@ -1,0 +1,12 @@
+int main()
+{
+    int x;
+    x = 10;
+
+    float y;
+    y = 2.5;
+
+    cout << "Hello World ";
+
+    return 0;
+}
